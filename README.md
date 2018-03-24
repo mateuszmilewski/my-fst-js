@@ -1,4 +1,1 @@
-# my_1st_js_test
-nothing really important
-
-a teraz dodam cos innego
+lekko zmodyfikowalem tak, aby przycisk togglowal, a nie tylko robil hide :)
